@@ -1,0 +1,104 @@
+experiment,feature,importance
+all,Age,2.6740517226529565
+all,Arrival Delay in Minutes,0.3151943070292746
+all,Baggage handling,1.3319169243476958
+all,Checkin service,1.6912726620008864
+all,Class,0.7306279151330725
+all,Cleanliness,0.25431244001606634
+all,Customer Type,4.435309485318191
+all,Departure Delay in Minutes,0.09257711289675911
+all,Departure/Arrival time convenient,0.7129843305939199
+all,Ease of Online booking,0.3608210547294141
+all,Flight Distance,2.034557910263056
+all,Food and drink,0.12373586217718043
+all,Gate location,0.8775922486334385
+all,Gender,0.10006462989909855
+all,Inflight entertainment,0.49375488826219177
+all,Inflight entertainment_by_class,2.8176933951507586
+all,Inflight entertainment_by_travel,2.0886922029594124
+all,Inflight wifi service,2.805561863814207
+all,Inflight wifi service_by_class,5.964651199710636
+all,Inflight wifi service_by_travel,14.0094693720956
+all,Leg room service,0.6135733433170361
+all,On-board service,0.6177884214264305
+all,Online boarding,3.929908079674379
+all,Online boarding_by_class,1.956500127639563
+all,Online boarding_by_travel,6.308427267863326
+all,Seat comfort,0.359722560059081
+all,Type of Travel,4.402314282177021
+all,arrival_log,0.21655113757761765
+all,arrival_minus_departure,0.2183070850215283
+all,arrival_missing,0.0
+all,arrival_zero,0.06994575343189859
+all,comfort_mean,0.7503375012457014
+all,comfort_range,0.2392783057309016
+all,customer_travel_class,11.236680725497811
+all,delay_added,0.10131823813397606
+all,delay_recovered,0.1349850188988908
+all,departure_log,0.12405406582130095
+all,departure_zero,0.0
+all,digital_mean,0.46140627339153245
+all,digital_range,0.060237810748574976
+all,pair_0_category,1.5177762631289502
+all,pair_0_diff,0.7797202012122426
+all,pair_0_equal,3.4432025709694023
+all,pair_1_category,0.7675356758226792
+all,pair_1_diff,0.20570549463419577
+all,pair_1_equal,0.030671404067882074
+all,pair_2_category,1.8102185283360115
+all,pair_2_diff,0.3347904663955557
+all,pair_2_equal,0.04937853120380701
+all,pair_3_category,0.9222077049305781
+all,pair_3_diff,0.28137630826010324
+all,pair_3_equal,0.021239935845304442
+all,pair_4_category,1.7901815558023013
+all,pair_4_diff,0.2134775868648141
+all,pair_4_equal,0.0038159552701664532
+all,pair_5_category,2.6347488400445793
+all,pair_5_diff,0.22244380277709866
+all,pair_5_equal,0.08113893597266963
+all,rating_high_count,0.43794912741444064
+all,rating_low_count,0.42729766689227994
+all,rating_max,1.8469008538622995
+all,rating_mean,0.3138151384544214
+all,rating_min,0.08862624773560766
+all,rating_positive_mean,0.46133041134879643
+all,rating_range,0.11960487991447462
+all,rating_std,0.6945610376343857
+all,staff_mean,4.0332919617935366
+all,staff_range,0.25543012362654305
+all,zero_0,0.3136783782562094
+all,zero_1,0.05524932306413983
+all,zero_10,0.0
+all,zero_11,0.0
+all,zero_12,0.0007434489943348664
+all,zero_2,0.0394635278510177
+all,zero_3,0.0003434491512469713
+all,zero_4,0.013381798721159813
+all,zero_5,0.0
+all,zero_6,0.0
+all,zero_7,0.0
+all,zero_8,0.004357262785940961
+all,zero_9,0.01930535218557018
+all,zero_count,0.04886272343485464
+raw,Age,3.1950684214352836
+raw,Arrival Delay in Minutes,0.5984860828439093
+raw,Baggage handling,4.363697383937058
+raw,Checkin service,3.346675896938048
+raw,Class,9.105819296145134
+raw,Cleanliness,1.6200429620115868
+raw,Customer Type,7.614434445464238
+raw,Departure Delay in Minutes,0.4243756607695051
+raw,Departure/Arrival time convenient,1.452872503150301
+raw,Ease of Online booking,2.160749044943579
+raw,Flight Distance,2.8461661722147373
+raw,Food and drink,0.5662924061610474
+raw,Gate location,2.2100334844177016
+raw,Gender,0.24148154044839146
+raw,Inflight entertainment,5.000071705609231
+raw,Inflight wifi service,18.38398048000032
+raw,Leg room service,1.553970729765325
+raw,On-board service,3.962530527134646
+raw,Online boarding,11.7694464922667
+raw,Seat comfort,3.082719066281029
+raw,Type of Travel,16.501085698062216
